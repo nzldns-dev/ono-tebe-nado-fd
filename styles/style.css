@@ -144,6 +144,7 @@
     color: #fff;
     font-size: 22px;
     text-transform: uppercase;
+    cursor: pointer;
 }
 
 
@@ -285,7 +286,7 @@
     grid-template-columns: 1fr 1fr 1fr;
     align-items: start;
     gap: 25px;
-    padding: 0 50px;
+    padding: 0 50px 82px;
     margin-top: 180px;
 }
 
